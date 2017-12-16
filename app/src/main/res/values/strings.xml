@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TollSmart</string>
+
+    <!-- Accept Related  -->
+    <string name="button_text_token">FETCH TOKEN</string>
+    <string name="invalid_card_number">Invalid Card Number</string>
+    <string name="invalid_month">Invalid Month</string>
+    <string name="two_digit_month">Two Digit Month Required</string>
+    <string name="invalid_year">Invalid Year</string>
+    <string name="invalid_cvv">Invalid CVV</string>
+    <string name="invalid_zipcode">Invalid Zipcode</string>
+    <string name="error">Error</string>
+    <string name="code">"Code: "</string>
+    <string name="message">"Message: "</string>
+    <string name="extra_message">"Extra Message: "</string>
+    <string name="data_descriptor">"Data Descriptor :  "</string>
+    <string name="data_value">"Data Value:  "</string>
+    <string name="decision">"Decision: "</string>
+    <string name="token">"Token"</string>
+    <string name="cvv">CVV</string>
+    <string name="card_number">Card Number</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="progress_message">Fetching Token for given Card Data...</string>
+    <string name="progress_title">Please Wait</string>
+</resources>
